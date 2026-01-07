@@ -1,4 +1,9 @@
-## Hi there 👋
+👋 Hi, I’m Sam
+
+I enjoy building small systems that do clever things:
+sensors, dashboards, smart room ideas, and connected devices.
+
+This space is a running log of experiments, progress, and curiosity.
 
 <!--
 **mbahScript/mbahScript** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
